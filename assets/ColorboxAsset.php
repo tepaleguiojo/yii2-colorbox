@@ -10,10 +10,14 @@ class ColorboxAsset extends AssetBundle
     public $sourcePath = '@bower/colorbox';
     public $basePath = '';
     public $baseUrl = '';
-    public $js = [];
-    public $css = [];
+    public $js = [
+        'jquery.colorbox-min.js'
+    ];
+    public $css = [
+        'example1/colorbox.css'
+    ];
     public $depends = [
-        'yii\web\JqueryAsset',
+        'yii\web\JqueryAsset'
     ];
 
 }

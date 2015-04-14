@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "fb1b30a1b574e34e5c84321d2d52f75a",
+    "hash": "ad702fb816938b6f9db1d6d1d0400c70",
     "packages": [
         {
             "name": "bower-asset/colorbox",
