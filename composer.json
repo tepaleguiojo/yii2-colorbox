@@ -1,0 +1,16 @@
+{
+    "name": "tepaleguiojo/yii2-colorbox",
+    "description": "colorbox extension for yii2.",
+    "authors": [
+        {
+            "name": "Terence Eric Aleguiojo",
+            "email": "aleguiojoterenceericp@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*",
+        "bower-asset/colorbox": "1.6.0"
+    }
+}
